@@ -1,4 +1,4 @@
-package org.example.lessons.lesson04
+package org.example.lessons.lesson04.homework
 
 val v1: Int = 42
 val v2: Long = 98765432123456789L
